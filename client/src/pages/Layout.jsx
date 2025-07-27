@@ -43,6 +43,6 @@ function Layout() {
       <SignIn/>
     </div>
   );
-}
+};
 
 export default Layout;
