@@ -32,6 +32,7 @@ const WriteArticle = () => {
         </div>
       </form>
       {/* Right col */}
+      {/* something */}
       <div>
 
       </div>
